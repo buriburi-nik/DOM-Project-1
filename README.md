@@ -14,7 +14,7 @@ The element is styled to have a yellow background, specific dimensions, padding,
 
 ## How to Run Locally
 
-1. Clone the repository: `git clone https://github.com/PriyaMaity/DOM-project-1.git`
+1. Clone the repository: `https://github.com/buriburi-nik/DOM-Project-1`
 2. Navigate to the project folder: `cd DOM-project-1`
 3. Open `index.html` in a web browser.
 
